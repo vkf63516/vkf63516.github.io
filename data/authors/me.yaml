@@ -20,6 +20,8 @@ links:
   - icon: at-symbol
     url: mailto:vkf@njit.edu
     label: E-mail Me
+  - icon: academicons/google-scholar
+    url: https://scholar.google.com/citations?user=SRGjD7kAAAAJ&hl=en&oi=ao 
   - icon: brands/github
     url: https://github.com/vkf63516
   - icon: brands/linkedin
