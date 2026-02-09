@@ -1,9 +1,12 @@
 ---
 title: Vishal Fenn
 role: Machine Learning Researcher
+
 organizations:
   - name: NJIT
     url: https://njit.edu/
+
+bio: Machine learning researcher passionate about Time Series Forecasting and Geometric Deep Learning
 
 interests:
   - Machine Learning
@@ -11,13 +14,13 @@ interests:
   - Geometric Representational Learning
 
 education:
-    - Bachelors: BS in Computer Science
-      institution: Christopher Newport University
-      year: 2018 - 2022
-    
-    - Graduate: MS in Data Science
+  courses:
+    - course: MS in Data Science
       institution: New Jersey Institute of Technology
-      year: 2024 - 2026
+      year: 2026
+    - course: BS in Computer Science
+      institution: Christopher Newport University
+      year: 2022
 
 social:
   - icon: envelope
@@ -34,4 +37,4 @@ highlight_name: true
 ---
 
 I am a second year NJIT masters student passionate about research in machine learning specifically in regards to Time Series Forecasting and Geometric Deep Learning.
-I also work as a research assitant in a Biomedical Engineering Lab at NJIT.
+I also work as a research assistant in a Biomedical Engineering Lab at NJIT.
