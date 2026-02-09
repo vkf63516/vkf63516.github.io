@@ -13,7 +13,7 @@ sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder na within `content/authors/`)
-      username: admin
+      username: me
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
